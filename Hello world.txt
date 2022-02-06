@@ -1,5 +1,6 @@
-print(Hello World!)
-print(Hello Olga!)
-print(Hello Oleg!)
-Ghbdtn vjq kexibq lheu
-print("hello advanced branch")
+<<<<<<< HEAD
+print(Hello World!);
+print(Hello Olga!);
+print(Hello Oleg!);
+Ghbdtn vjq kexibq lheu;
+print("hello advanced branch");
